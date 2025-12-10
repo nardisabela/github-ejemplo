@@ -50,6 +50,9 @@ export default function App() {
         >
           Next Tip →
         </button>
+
+        <a href="About.jsx"><p>Click me</p></a>
+
       </div>
 
       <footer className="mt-10 text-sm opacity-70">Made with ❤️ using React</footer>
